@@ -1,0 +1,7 @@
+{
+  "name": "MyDatabase",
+  "structure": {
+      "table1": ["name", "age", "adress", "number"],
+      "table2": ["name", "age", "adress", "number"]
+  }
+}
